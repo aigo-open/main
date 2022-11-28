@@ -94,7 +94,7 @@ Travel with us around the world as we apply these classic techniques to data fro
 
 ---
 # 計畫成果
-1.[台灣疫苗接種小黃卡影像辨識 - 使用雲端AI應用服務]---(1-Tools/README.md)
+1.[台灣疫苗接種小黃卡影像辨識 - 使用雲端AI應用服務]---(https://github.com/aigo-open/form-recognizer-tw-yellow-card/README.md)
 
 2.[利用影像辨識輔助木瓜成熟度判斷](https://github.com/jack155861/papaya_image_classification/README.md)
 

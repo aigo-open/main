@@ -1,5 +1,5 @@
 
-# Machine Learning for Beginners 
+# AIGO AI產業實戰應用人才淬煉計畫 
 
 ---
 ![ai-logo](https://aigo.org.tw/img/ai-logo.png)

@@ -1,7 +1,7 @@
 
 ![ai-logo](https://aigo.org.tw/img/ai-logo.png) 
 # AIGO AI產業實戰應用人才淬煉計畫 
-
+[![Video Link](/images/youtube.jpg)](https://www.youtube.com/watch?v=ZBijjlDJBvE)
 ---
 
 # 計畫緣起

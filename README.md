@@ -1,5 +1,5 @@
 
-![ai-logo](https://aigo.org.tw/img/ai-logo.png) 
+![ai-logo](/images/ai-logo.png) 
 # AIGO AI產業實戰應用人才淬煉計畫 
 [![Video Link](/images/youtube.jpg)](https://www.youtube.com/watch?v=ZBijjlDJBvE)
 ---

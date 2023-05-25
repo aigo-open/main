@@ -40,6 +40,4 @@
 
 2.[利用影像辨識輔助木瓜成熟度判斷](https://github.com/aigo-open/papaya_image_classification/blob/main/README.md)
 
-3.[如何使用人體姿態檢測模型( Human Pose Estimation Model ) 做單人脊椎檢測]
-
-4.[undefined]
+3.[板金料件智慧化電腦視覺外觀瑕疵檢測]

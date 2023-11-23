@@ -43,3 +43,5 @@
 3.[原住民族語言斷層，輔以AI傳承](https://github.com/aigo-open/TTS-AIGO/blob/main/README.md)
 
 4.[板金料件智慧化電腦視覺外觀瑕疵檢測](https://github.com/aigo-open/claireyeaigo/blob/main/README.md)
+
+5.[以2D影像+3D影像輔助分析因病害而造成體積不均之葡萄自動化品質分級檢測](https://github.com/aigo-open/grapesdiseaseTest/blob/main/README.md)

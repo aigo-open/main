@@ -41,3 +41,5 @@
 2.[利用影像辨識輔助木瓜成熟度判斷](https://github.com/aigo-open/papaya_image_classification/blob/main/README.md)
 
 3.[原住民族語言斷層，輔以AI傳承](https://github.com/aigo-open/TTS-AIGO/blob/main/README.md)
+
+4.[板金料件智慧化電腦視覺外觀瑕疵檢測](https://github.com/aigo-open/claireyeaigo/blob/main/README.md)

@@ -47,3 +47,9 @@
 5.[以2D影像+3D影像輔助分析因病害而造成體積不均之葡萄自動化品質分級檢測](https://github.com/aigo-open/grapesdiseaseTest/blob/main/README.md)
 
 6.[使用人體姿態檢測模型進行脊椎檢測](https://github.com/aigo-open/HumanPose/tree/main/README.md)
+
+7.[裝訂業機器摺紙精準度AI影像辨識]
+
+8.[]
+
+9.[]

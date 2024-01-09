@@ -48,7 +48,7 @@
 
 6.[使用人體姿態檢測模型進行脊椎檢測](https://github.com/aigo-open/HumanPose/tree/main/README.md)
 
-7.[裝訂業機器摺紙精準度AI影像辨識]
+7.[裝訂業機器摺紙精準度AI影像辨識](https://github.com/aigo-open/siamese_network/blob/main/README.md)
 
 8.[AIoT 智慧交通—物件偵測開發技術教學](https://github.com/aigo-open/AIoT_object_detection_tutorial/blob/main/README.md)
 

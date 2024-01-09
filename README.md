@@ -50,6 +50,6 @@
 
 7.[裝訂業機器摺紙精準度AI影像辨識]
 
-8.[AIoT 智慧交通—物件偵測開發技術教學]
+8.[AIoT 智慧交通—物件偵測開發技術教學](https://github.com/aigo-open/AIoT_object_detection_tutorial/blob/main/README.md)
 
-9.[Pytorch Tutorial 實作課程]
+9.[Pytorch Tutorial 實作課程](https://github.com/aigo-open/PytorchTutorial/blob/main/README.md)

@@ -45,3 +45,5 @@
 4.[板金料件智慧化電腦視覺外觀瑕疵檢測](https://github.com/aigo-open/claireyeaigo/blob/main/README.md)
 
 5.[以2D影像+3D影像輔助分析因病害而造成體積不均之葡萄自動化品質分級檢測](https://github.com/aigo-open/grapesdiseaseTest/blob/main/README.md)
+
+6.[使用人體姿態檢測模型進行脊椎檢測](https://github.com/aigo-open/HumanPose/tree/main/README.md)

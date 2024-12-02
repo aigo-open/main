@@ -53,3 +53,5 @@
 8.[AIoT 智慧交通—物件偵測開發技術教學](https://github.com/aigo-open/AIoT_object_detection_tutorial/blob/main/README.md)
 
 9.[Pytorch Tutorial 實作課程](https://github.com/aigo-open/PytorchTutorial/blob/main/README.md)
+
+10.[生成式AI系列教案(共6案)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study)
